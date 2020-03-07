@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uboaphushe.mtlgj.org/sitemap.xml
